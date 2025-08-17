@@ -15,4 +15,4 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 NOTE : "Export the model and include into this directory as model.pkl"
 
-Check out the demo at [https://huggingface.co/docs/hub/spaces-config-reference](https://huggingface.co/spaces/shubhTechDev/bear-classifier)
+Check out the demo at [https://huggingface.co/spaces/shubhTechDev/bear-classifier]
